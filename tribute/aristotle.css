@@ -1,0 +1,44 @@
+.container
+{
+    background-color: rgb(255, 255, 255);
+}
+body
+{
+    margin-top: 33px;
+}
+img
+{
+    border-radius: 50%;
+    margin-left: 25%;
+    width: 50%;
+    height: 50%;
+}
+.head
+{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.para
+{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    
+}
+.row
+{
+    font-family:'Times New Roman', Times, serif ;
+    font-size: medium;
+}
+.caption
+{
+    background-color: rgb(206, 197, 197);
+    border: transparent;
+    text-align: center;
+    font-family: verdana;
+    font-weight: 400px;
+}
+.follow{
+    font-family: Verdana;
+
+}
