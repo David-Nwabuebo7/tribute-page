@@ -1,0 +1,2 @@
+# tribute-page
+ history aristotle
